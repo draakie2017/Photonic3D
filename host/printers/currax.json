@@ -2,7 +2,7 @@
   	"configuration": {
   		"name": "Currax",
   		"machineConfig": {
-  			"name": "Currqx",
+  			"name": "Currax",
   			"FileVersion": 0,
   			"PlatformXSize": 196.61,
   			"PlatformYSize": 147.46,
@@ -13,7 +13,7 @@
   			"XRenderSize": 2048,
   			"YRenderSize": 1536,
   			"MotorsDriverConfig": {
-  				"DriverType": "Currax",
+  				"DriverType": "Photocentric",
   				"ComPortSettings": {
   					"PortName": "Autodetect 3d printer firmware",
   					"Speed": 115200,
