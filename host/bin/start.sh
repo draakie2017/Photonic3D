@@ -6,7 +6,7 @@ if [ -z "$HOME" ] || [ "$HOME" == "/" ]; then
   HOME=~root
 fi
 
-DEFAULT_REPO="area515/Creation-Workshop-Host"
+DEFAULT_REPO="draakie2017/Photonic3D"
 CONFIG_PROPS="${HOME}/3dPrinters/config.properties"
 
 echo "Local Config: $CONFIG_PROPS"
