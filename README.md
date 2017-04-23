@@ -65,26 +65,14 @@ Linux Installation Quickstart
 -------------------------------------------------------------------------------
 If you are experienced with Linux, you can quickly install Photonic3D with the following commands:
 
-Latest stable:
-```
-sudo wget https://github.com/area515/Creation-Workshop-Host/raw/master/host/bin/start.sh
-sudo chmod 777 start.sh
-sudo ./start.sh
-```
 
 Latest development:
 ```
-sudo wget https://github.com/WesGilster/Creation-Workshop-Host/raw/master/host/bin/start.sh
+sudo wget https://github.com/draakie2017/Photonic3D/raw/master/host/bin/start.sh
 sudo chmod 777 start.sh
-sudo ./start.sh WesGilster
+sudo ./start.sh 
 ```
 
-Latest Kudo3D Fork (or other forks named Photonic3D):
-```
-sudo wget https://github.com/Kudo3D/Photonic3D/raw/master/host/bin/start.sh
-sudo chmod 777 start.sh
-sudo ./start.sh Kudo3D/Photonic3D
-```
 
 Photonic3D will be installed into `/opt/cwh` and an init script will be added to `/etc/init.d` to launch the server on boot.
 
